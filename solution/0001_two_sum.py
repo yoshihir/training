@@ -10,10 +10,7 @@ class Solution:
 
             if other in seen:
                 return [seen[other], index]
-            else:
-                seen[num] = index
-
-        return []
+            seen[num] = index
 
 
 if __name__ == '__main__':
