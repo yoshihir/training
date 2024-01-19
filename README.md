@@ -14,10 +14,12 @@ $ pipenv install numpy                # numpyをインストールする例で�
 ```
 
 ## どの問題を解くか
+- https://github.com/doocs/leetcode/blob/main/README_EN.md
 - https://1kohei1.com/leetcode/
 - https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 - https://leetcode.com/studyplan/top-interview-150/
 - https://doocs.github.io/leetcode/#/README_EN?id=topics
+
 
 ## cheat sheet
 使うかわからないけど、とりあえずメモ
