@@ -6,15 +6,4 @@
 
 大小関係を用いるため、未ソートのリストや大小関係の定義されない要素を含むリストには二分探索を用いることはできない。
 
-```
-right = len(a)
-
-while left < right:
-    mid = (left + right) // 2
-    if x < a[mid]:
-        right = mid
-    else:
-        left = mid + 1
-
-return left
-```
+https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0034.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/README_EN.md
