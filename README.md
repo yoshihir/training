@@ -26,6 +26,8 @@ $ pipenv install numpy                # numpyをインストールする例で�
 - https://neetcode.io/problems/duplicate-integer
   英語の文字で良いなら下記
 - https://github.com/doocs/leetcode/tree/main/solution
+  答えだけ
+- https://github.com/neetcode-gh/leetcode
 
 
 ## どの問題を解くか
