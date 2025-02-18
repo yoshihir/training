@@ -13,8 +13,7 @@ $ pipenv install
 $ pipenv install numpy                # numpyをインストールする例です
 ```
 
-## version2
-どの問題を解くか
+## version2(どの問題を解くか)
 - https://neetcode.io/roadmap
 - https://interviewcat.dev/p/coding-interviewcat/leetcode-problemset
 日本語解説(導入)
